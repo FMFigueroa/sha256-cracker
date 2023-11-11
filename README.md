@@ -8,9 +8,9 @@ This simple program will help us learn Rust's fundamentals:
  - Basic error handling
  - Resources management
 
-### You can try to try it
+### You can try to test it
 ```
 cargo run -- wordlist.txt a591a6d40bf420404a011733cfb7b190d62c65bf0bcda32b57b277d9ad9f146e
 ```
 ### You can generate a hash Sha-256 with this tool
- - [sha256 ](https://hash.online-convert.com/es/generador-sha256)
+ - Tool [sha256 ](https://hash.online-convert.com/es/generador-sha256)
